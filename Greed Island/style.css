@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+
+
+body {
+    background-image: url(./src/background\ site.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+
+p {
+    color: white;
+}
+
+
+.header1 {
+    background-color: rgba(0, 255, 55, 0.047)    ;
+   width: 100vw;
+   height: 6vh;
+   border: 1px solid rgba(0, 255, 38, 0.047);
+   border-radius: 2px;
+   display: flex;
+
+
+}
+
+.img1 {
+    padding-left:10px ;
+    padding-top: 3px;
+}
+
+
+
+.logo2 {
+    display: flex;
+    justify-content: center;
+    width: 85vw;
+    height: 6vh;
+    padding-top: 3px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.logocolor {
+    color: rgba(4, 23, 1, 0.9);
+}
+
+.borderlogo:hover {
+    border: 1px solid rgba(44, 255, 2, 0.036);
+    border-radius: 2px;
+    width: 137px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    background-color: rgba(0, 128, 0, 0.197);
+
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.main1 {
+    width: 90vw;
+    height: 90vh;
+    background-color: rgba(0, 255, 0, 0.100);
+    border: 1px solid rgba(0, 255, 0, 0.100);
+    border-radius: 5px;
+    display: flex;
+}
+
+.texto1 {
+    padding-top: 20px;
+    padding-left: 20px ;
+    width: 50vw;
+}
+
+.img2 {
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+.img3 {
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.backgroundimg2 {
+    width: 40vw;
+    height: 50vh;
+    background-color: rgba(166, 255, 0, 0.150);
+    border: 1px solid rgba(166, 255, 0, 0.150);
+    border-radius: 3px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+
+}
