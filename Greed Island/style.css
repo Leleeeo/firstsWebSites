@@ -7,13 +7,14 @@
 
 
 body {
-    background-image: url(./src/background\ site.jpg);
+    background-image: url(./src/background.jpg);
     background-repeat: no-repeat;
     background-size: cover ;
 }
 
 p {
     color: white;
+    text-shadow: 1px 0px 0px black;
 }
 
 
